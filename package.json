@@ -159,6 +159,6 @@
   },
   "dependencies": {
     "hoek": "^6.0.4",
-    "moment": "^2.24.0"
+    "moment": "^2.29.1"
   }
 }
